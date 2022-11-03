@@ -60,6 +60,6 @@ Depois execute o arquivo index.html
 
 ## 📝 Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](License.md) para mais detalhes.
 
 <br/>
